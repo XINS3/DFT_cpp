@@ -7,7 +7,7 @@ A faster module that calculate the probability of the number of edges existed in
 ## Installation
 Note the --recursive option which is needed for the pybind11 submodule:
 ```
-git clone --recursive
+git clone --recursive https://github.com/XINS3/DFT_cpp.git
 pip install ./DFT_cpp
 ```
 ## Building the documentation
