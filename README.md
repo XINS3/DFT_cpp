@@ -1,9 +1,9 @@
 # DFT_cpp
 A faster module that calculate the probability of the number of edges existed in (sub)graph, built with CMake-based build system. This is useful for C++ codebases that have an existing CMake project structure.
 ## Prerequisites
-. A compiler with C++11 support
-. Pip 10+ or CMake >= 3.4 (or 3.14+ on Windows, which was the first version to support VS 2019)
-. Ninja or Pip 10+
+- A compiler with C++11 support
+- Pip 10+ or CMake >= 3.4 (or 3.14+ on Windows, which was the first version to support VS 2019)
+- Ninja or Pip 10+
 ## Installation
 Note the --recursive option which is needed for the pybind11 submodule:
 ```
